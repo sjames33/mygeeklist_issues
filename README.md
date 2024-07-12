@@ -9,7 +9,7 @@ This initial release has a simple interface for finding movie titles and creatin
 It is in active development; new features, improvements and fixes will be ongoing.
 
 General usage:
-
+---
 Search
 - Search for movie titles or cast/crew names.
 - Click on a suggestion, or press 'Enter' for results.
