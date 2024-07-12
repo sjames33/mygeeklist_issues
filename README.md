@@ -1,9 +1,10 @@
 # mygeeklist_issues
-MyGeekList - Search for your favorite movie titles and create lists.
 
 Please use the 'Issues' tab to log comments, issues, feedback and requests for MyGeekList.
 
 # Welcome to MyGeekList!
+
+Search for your favorite movie titles and create lists.
 
 This initial release has a simple interface for finding movie titles and creating lists.
 It is in active development; new features, improvements and fixes will be ongoing.
